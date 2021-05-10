@@ -1,0 +1,44 @@
+{
+  "id": "1987213",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18438153",
+      "name": "双箭头2",
+      "font_class": "shuangjiantou2",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "4784096",
+      "name": "今天",
+      "font_class": "jintian",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "7090055",
+      "name": "上一页（单箭头）",
+      "font_class": "shangyiyedanjiantou",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "7090076",
+      "name": "下一页单箭头",
+      "font_class": "xiayiyedanjiantou",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "18438115",
+      "name": "双箭头1",
+      "font_class": "shuangjiantou1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
