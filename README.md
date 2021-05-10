@@ -1,6 +1,13 @@
 # vue-pithy-calendar
 
 ## 方式一：从Github下载
+
+github地址：
+
+```
+https://github.com/Jane-He628/vue-pithy-calendar
+```
+
 ```
 yarn install
 或者
@@ -14,6 +21,12 @@ yarn serve
 ```
 
 ## 方式二：从npm下载
+
+npm packages地址：
+
+```
+https://www.npmjs.com/package/vue-pithy-calendar
+```
 
 ```
 cnpm install vue-pithy-calendar --save 
